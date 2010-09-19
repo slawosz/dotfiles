@@ -1,0 +1,4 @@
+rm ~/.vim
+rm ~/.vimrc
+ln -s ~/dotfiles/vim/akita-vimfiles ~/.vim 
+ln -s  ~/dotfiles/vim/akita-vimfiles/vimrc ~/.vimrc
